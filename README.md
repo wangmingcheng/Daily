@@ -14,6 +14,9 @@
 
 ## 测试call snp软件
 ### freebayes
+```
+freebayes -f /datapool/home/wangmc/project/genome/ucsc.hg19.fasta /datapool/home/wangmc/project/case_22BY12800/case_22BY12800.bam > case_22BY12800.vcf
+```
 
 ### deepvariant
 #### conda安装不可行
