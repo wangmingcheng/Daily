@@ -17,11 +17,13 @@
 ```
 freebayes -f /datapool/home/wangmc/project/genome/ucsc.hg19.fasta /datapool/home/wangmc/project/case_22BY12800/case_22BY12800.bam > case_22BY12800.vcf
 ```
+freebayes参数意义
+freebayes结果过滤标准
 
 ### deepvariant
-#### conda安装不可行
-#### 下载源码编译安装，依赖太多，需要管理员权限也不可行
-#### singularity可以成功安装并使用
+#### 1 conda安装不可行 pass
+#### 2 下载源码编译安装，依赖太多，需要管理员权限也不可行 pass
+#### 3 singularity可以成功安装并使用
 1 拉镜像：<br>
 ```
 singularity build deepvariant.sif docker://google/deepvariant<br>
