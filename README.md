@@ -44,3 +44,7 @@ https://github.com/google-health/genomics-research/tree/main/nonlinear-covariate
 建立非线性协变量效应模型，提高表型预测和关联能力<br>
 
 ### gVCF和VCF的区别
+
+### illumina官网支持
+
+https://support.illumina.com/content/dam/illumina-support/help/Illumina_DRAGEN_Bio_IT_Platform_v3_7_1000000141465/Content/SW/Informatics/Dragen/QUAL_QD_GQ_Formulation_fDG.htm
