@@ -37,3 +37,8 @@ bam和参考基因组fasta移动到一个磁盘下,docker调用系统文件的�
 
 ### 不同call snp软件结果评估标准
 #### 1 snp交集
+
+
+### DeepNull GAWS
+https://github.com/google-health/genomics-research/tree/main/nonlinear-covariate-gwas<br>
+建立非线性协变量效应模型，提高表型预测和关联能力<br>
