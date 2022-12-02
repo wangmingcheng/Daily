@@ -32,6 +32,8 @@ singularity build deepvariant.sif docker://google/deepvariant<br>
 ```
 singularity run -B /usr/lib/locale/:/usr/lib/locale/  /datapool/home/wangmc/software/deepvariant/deepvariant.sif /opt/deepvariant/bin/run_deepvariant --model_type=WES --ref=/datapool/home/wangmc/project/genome/ucsc.hg19.fasta --reads=/datapool/home/wangmc/project/case_22BY12800/case_22BY12800.bam  --output_vcf=case_22BY12800.vcf --output_gvcf=case_22BY12800.g.vcf case_22BY12800 --num_shards=30
 ```
+bam和参考基因组fasta移动到一个磁盘下
+SAMtools [E::hts_open_format] Failed to open file #1289(https://github.com/samtools/samtools/issues/1289)
 
 ### 不同call snp软件结果评估标准
 #### 1 snp交集
