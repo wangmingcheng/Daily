@@ -35,6 +35,11 @@ singularity run -B /usr/lib/locale/:/usr/lib/locale/  /datapool/home/wangmc/soft
 bam和参考基因组fasta移动到一个磁盘下,docker调用系统文件的问题<br>
 [SAMtools [E::hts_open_format] Failed to open file #1289](https://github.com/samtools/samtools/issues/1289)
 
+### bcftools
+```
+/datapool/bioinfo/xinghu/Biotools/miniconda/bin/bcftools mpileup -Ou -R case_22BY12800.bed --threads 30 -f /datapool/home/wangmc/project/genome/ucsc.hg19.fasta /datapool/home/wangmc/project/case_22BY12800/case_22BY12800.bam | /datapool/bioinfo/xinghu/Biotools/miniconda/bin/bcftools call --threads 30 -mv -Ov -o case_22BY12800.vcf
+```
+
 ### 不同call snp软件结果评估标准
 #### 1 snp交集
 
