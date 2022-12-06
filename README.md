@@ -60,6 +60,7 @@ https://support.illumina.com/content/dam/illumina-support/help/Illumina_DRAGEN_B
 https://www.jianshu.com/p/401202306f41<br>
 https://gatk.broadinstitute.org/hc/en-us/articles/360035532252?id=11096<br>
 
-### bam-readcount https://github.com/genome/bam-readcount
+### bam-readcount bam文件统计
+https://github.com/genome/bam-readcount
 bam-readcount is a utility that runs on a BAM or CRAM file and generates low-level information about sequencing data at specific nucleotide positions. Its outputs include observed bases, readcounts, summarized mapping and base qualities, strandedness information, mismatch counts, and position within the reads. 
 
