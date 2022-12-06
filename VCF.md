@@ -1,4 +1,4 @@
-(VCF格式说明)[http://samtools.github.io/hts-specs/#:~:text=VCFv4.3.tex%20is%20the%20canonical%20specification%20for%20the%20Variant,of%20VCF%20format%20and%20is%20under%20active%20revision]
+[VCF格式说明](http://samtools.github.io/hts-specs/#:~:text=VCFv4.3.tex%20is%20the%20canonical%20specification%20for%20the%20Variant,of%20VCF%20format%20and%20is%20under%20active%20revision)
 
 RMS Mapping Quality（Root Mean Square of the mapping quality of reads across all samples） 默认值：SNP>= 40
 
