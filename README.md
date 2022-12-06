@@ -53,3 +53,7 @@ https://github.com/google-health/genomics-research/tree/main/nonlinear-covariate
 ### illumina官网支持
 
 https://support.illumina.com/content/dam/illumina-support/help/Illumina_DRAGEN_Bio_IT_Platform_v3_7_1000000141465/Content/SW/Informatics/Dragen/QUAL_QD_GQ_Formulation_fDG.htm
+
+### 为什么VCF中Allele Depth（AD）比预期的低好多,理论上AD之和应该等于DP
+https://www.jianshu.com/p/401202306f41<br>
+https://gatk.broadinstitute.org/hc/en-us/articles/360035532252?id=11096<br>
