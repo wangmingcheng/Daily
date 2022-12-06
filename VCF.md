@@ -2,6 +2,9 @@
 
 RMS Mapping Quality（Root Mean Square of the mapping quality of reads across all samples） 默认值：SNP>= 40
 
-QUAL：Phred格式(Phred_scaled)的质量值，表示在该位点存在variant的可能性；该值越高，则variant的可能性越大；计算方法：Phred值 = -10 * log (1-p) p为variant存在的概率; 通过计算公式可以看出值为10的表示错误概率为0.1，该位点为variant的概率为90%。<br>
-GQ：基因型的质量值(Genotype Quality)。Phred格式(Phred_scaled)的质量值，表示在该位点该基因型存在的可能性；该值越高，则Genotype的可能性越大；计算方法：Phred值 = -10 * log (1-p) p为基因型存在的概率。<br>
-PL:指定的三种基因型的质量值（provieds the likelihoods of the given genotypes);这三种指定的基因型为（0/0，0/1，1/1），这三种基因型的概率总和为1。该值越大，表明为该种基因型的可能性越小。Phred值=-10log(P)，P为基因型存在的概率。最有可能的genotype的值为0<br>
+### QUAL：
+Phred格式(Phred_scaled)的质量值，表示在该位点存在variant的可能性；该值越高，则variant的可能性越大；计算方法：Phred值 = -10 * log (1-p) p为variant存在的概率; 通过计算公式可以看出值为10的表示错误概率为0.1，该位点为variant的概率为90%。<br>
+### GQ：
+基因型的质量值(Genotype Quality)。Phred格式(Phred_scaled)的质量值，表示在该位点该基因型存在的可能性；该值越高，则Genotype的可能性越大；计算方法：Phred值 = -10 * log (1-p) p为基因型存在的概率。<br>
+### PL:
+指定的三种基因型的质量值（provieds the likelihoods of the given genotypes);这三种指定的基因型为（0/0，0/1，1/1），这三种基因型的概率总和为1。该值越大，表明为该种基因型的可能性越小。Phred值=-10log(P)，P为基因型存在的概率。最有可能的genotype的值为0<br>
