@@ -26,7 +26,7 @@ freebayes结果过滤标准<br>
 #### 3 singularity可以成功安装并使用
 1 拉镜像：<br>
 ```
-singularity build deepvariant.sif docker://google/deepvariant<br>
+singularity build deepvariant.sif docker://google/deepvariant
 ```
 2 运行：<br>
 ```
