@@ -54,6 +54,8 @@ gvcf文件会记录更多的信息，这里更多的信息指的是未突变的�
 
 ### illumina官网支持
 
+github主页值得关注：https://github.com/Illumina<br>
+
 https://support.illumina.com/content/dam/illumina-support/help/Illumina_DRAGEN_Bio_IT_Platform_v3_7_1000000141465/Content/SW/Informatics/Dragen/QUAL_QD_GQ_Formulation_fDG.htm
 
 ### 为什么VCF中Allele Depth（AD）比预期的低好多,理论上AD之和应该等于DP
