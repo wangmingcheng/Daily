@@ -89,3 +89,5 @@ conda config --add channels https://mirrors.aliyun.com/anaconda/pkgs/main/
 conda config --add channels https://mirrors.aliyun.com/anaconda/cloud/conda-forge/
 conda config --add channels https://mirrors.aliyun.com/anaconda/cloud/bioconda/
 ```
+## 三代测序数据分析工具
+https://long-read-tools.org/index.html<br>
