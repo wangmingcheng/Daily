@@ -83,3 +83,9 @@ https://github.com/milaboratory/mixcr<br>
 #### Clair3：三代测序reads变异检测
 https://github.com/HKU-BAL/Clair3<br>
 
+## conda镜像源配置
+```
+conda config --add channels https://mirrors.aliyun.com/anaconda/pkgs/main/
+conda config --add channels https://mirrors.aliyun.com/anaconda/cloud/conda-forge/
+conda config --add channels https://mirrors.aliyun.com/anaconda/cloud/bioconda/
+```
