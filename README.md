@@ -91,3 +91,16 @@ conda config --add channels https://mirrors.aliyun.com/anaconda/cloud/bioconda/
 ```
 ## 三代测序数据分析工具
 https://long-read-tools.org/index.html<br>
+
+## conda更新或pip更新导致已安装包错误，需要重新安装
+
+```
+Obtaining file:///datapool/home/wangmc/software/cnvkit
+  Preparing metadata (setup.py) ... error
+  error: subprocess-exited-with-error
+  
+解决方案重新安装importlib_metadata
+pip uninstall importlib_metadata
+pip install importlib_metadata --force-reinstall
+
+```
