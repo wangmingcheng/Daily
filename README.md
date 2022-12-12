@@ -109,3 +109,6 @@ https://yimili.net/google-seach/
 
 ## 下载sci文献
 https://kgithub.com/Tishacy/SciDownl
+
+## gwas查询
+https://github.com/ramiromagno/gwasrapidd/
