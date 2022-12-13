@@ -118,3 +118,6 @@ https://kgithub.com/bioconvert/bioconvert
 
 ## go语言重写模块加速gatk call变异流程
 https://github.com/ExaScience/elprep
+
+## 思谋学术
+https://ac.scmor.com/
