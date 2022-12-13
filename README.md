@@ -112,3 +112,6 @@ https://kgithub.com/Tishacy/SciDownl
 
 ## gwas查询
 https://github.com/ramiromagno/gwasrapidd/
+
+## 格式转换
+https://kgithub.com/bioconvert/bioconvert
