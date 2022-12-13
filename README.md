@@ -121,3 +121,6 @@ https://github.com/ExaScience/elprep
 
 ## 思谋学术
 https://ac.scmor.com/
+
+## python编译，加速程序运行
+https://github.com/exaloop/codon
