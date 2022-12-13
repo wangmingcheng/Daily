@@ -126,3 +126,6 @@ https://ac.scmor.com/
 https://github.com/exaloop/codon
 
 ## Python readline()和readlines()函数
+
+## CNV软件测评
+https://github.com/StahlKt/ImputationComparisonPaper2021
