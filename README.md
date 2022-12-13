@@ -115,3 +115,6 @@ https://github.com/ramiromagno/gwasrapidd/
 
 ## 格式转换
 https://kgithub.com/bioconvert/bioconvert
+
+## go语言重写模块加速gatk call变异流程
+https://github.com/ExaScience/elprep
