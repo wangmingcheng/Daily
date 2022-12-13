@@ -124,3 +124,5 @@ https://ac.scmor.com/
 
 ## python编译，加速程序运行
 https://github.com/exaloop/codon
+
+## Python readline()和readlines()函数
