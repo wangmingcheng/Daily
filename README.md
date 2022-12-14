@@ -132,3 +132,9 @@ https://github.com/StahlKt/ImputationComparisonPaper2021
 
 ## 单细胞文献分析代码
 https://github.com/Xiaxy-XuLab/PanCAF
+
+## go语言添加国内镜像源头
+```
+export GO111MODULE=on
+export GOPROXY=https://goproxy.cn
+ ```
