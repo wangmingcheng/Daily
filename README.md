@@ -138,3 +138,11 @@ https://github.com/Xiaxy-XuLab/PanCAF
 export GO111MODULE=on
 export GOPROXY=https://goproxy.cn
  ```
+## PRS分析
+```
+https://github.com/choishingwan/PRSice
+```
+## 人类T2T基因组
+https://github.com/marbl/CHM13
+ 
+ 
