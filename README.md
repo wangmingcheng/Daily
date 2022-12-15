@@ -161,5 +161,8 @@ https://github.com/brentp/cyvcf2<br>
 https://github.com/pysam-developers/pysam<br>
 https://bedops.readthedocs.io/en/latest/index.html<br>
 
+## bayes
+http://allendowney.github.io/ThinkBayes2/index.html
+
  
  
