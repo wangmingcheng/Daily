@@ -153,5 +153,9 @@ https://kgithub.com/brentp/mosdepth
 
 ## vcfstats, 统计vcf各项指标，数量、等位基因频率；
 https://kgithub.com/pwwang/vcfstats
+
+## pybedtools，bedtools用python重写的包
+https://github.com/daler/pybedtools
+
  
  
