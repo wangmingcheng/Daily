@@ -150,5 +150,8 @@ https://github.com/marbl/CHM13
 
 ## bam文件深度统计等，相关bedtools
 https://kgithub.com/brentp/mosdepth
+
+## vcfstats, 统计vcf各项指标，数量、等位基因频率；
+https://kgithub.com/pwwang/vcfstats
  
  
