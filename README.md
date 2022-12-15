@@ -33,6 +33,7 @@ singularity build deepvariant.sif docker://google/deepvariant
 singularity run -B /usr/lib/locale/:/usr/lib/locale/  /datapool/home/wangmc/software/deepvariant/deepvariant.sif /opt/deepvariant/bin/run_deepvariant --model_type=WES --ref=/datapool/home/wangmc/project/genome/ucsc.hg19.fasta --reads=/datapool/home/wangmc/project/case_22BY12800/case_22BY12800.bam  --output_vcf=case_22BY12800.vcf --output_gvcf=case_22BY12800.g.vcf case_22BY12800 --num_shards=30
 ```
 bam和参考基因组fasta移动到一个磁盘下,docker调用系统文件的问题<br>
+同时移到/home目录下
 [SAMtools [E::hts_open_format] Failed to open file #1289](https://github.com/samtools/samtools/issues/1289)
 
 ### bcftools
@@ -145,5 +146,8 @@ https://github.com/choishingwan/PRSice
 ```
 ## 人类T2T基因组
 https://github.com/marbl/CHM13
+
+## bam文件深度统计等，相关bedtools
+https://kgithub.com/brentp/mosdepth
  
  
