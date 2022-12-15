@@ -49,6 +49,7 @@ https://github.com/google-health/genomics-research/tree/main/nonlinear-covariate
 建立非线性协变量效应模型，提高表型预测和关联能力<br>
 
 ### gVCF和VCF的区别
+https://github.com/broadgsa/gatk/blob/master/doc_archive/faqs/What_is_a_GVCF_and_how_is_it_different_from_a_'regular'_VCF%3F.md
 gvcf文件会记录更多的信息，这里更多的信息指的是未突变的位点的覆盖情况，gvcf文件也分两种，一种是-erc gvcf ，另一种是 -erc bp_resolution,这两种gvcf文件的区别在于前一种gvcf文件记录非突变位点的时候，以块的形式来记录，而后一种gvcf文件则是对非突变和突变位点一视同仁，前一种方式是为了有效的压缩文件的行数和大小，对后续的分析没有影响，因此这里推荐使用前一种gvcf文件。
 那么为什么要使用gvcf文件而不是vcf文件呢？这里主要的原因在于多个样本的vcf文件进行合并的时候，需要区分./.和0/0的情况，./.是未检出的基因型，而0/0是未突变的基因型，如果仅使用普通的vcf文件进行合并，那么就无法区分这两种情况，进而对合并结果产生偏差。实际上，我们也可以直接将gvcf文件和vcf文件使用bcftools merge进行merge，但是这样拿到的结果会有偏差，因为vcf文件没有未突变的位点的情况。
 
