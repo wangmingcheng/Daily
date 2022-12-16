@@ -108,7 +108,8 @@ pip install importlib_metadata --force-reinstall
 
 ```
 ## googel镜像网页
-https://yimili.net/google-seach/
+https://yimili.net/google-seach/<br>
+https://www.library.ac.cn/<br>
 
 ## 下载sci文献
 https://kgithub.com/Tishacy/SciDownl
