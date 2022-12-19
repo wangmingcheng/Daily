@@ -165,5 +165,11 @@ https://bedops.readthedocs.io/en/latest/index.html<br>
 ## bayes
 http://allendowney.github.io/ThinkBayes2/index.html
 
+## python argsort()函数
+ ```
+ argsort()函数是将x中的元素从小到大排列，提取其对应的index(索引号)
+ ```
+
+
  
  
