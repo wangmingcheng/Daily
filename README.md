@@ -170,6 +170,9 @@ http://allendowney.github.io/ThinkBayes2/index.html
  argsort()函数是将x中的元素从小到大排列，提取其对应的index(索引号)
  ```
 
+## 哈佛软件
+https://www.hsph.harvard.edu/alkes-price/software/
+
 
  
  
