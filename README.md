@@ -176,6 +176,9 @@ https://www.hsph.harvard.edu/alkes-price/software/
 ## strobealign类似bwa的比对工具
 https://github.com/ksahlin/strobealign
 
+## 生信经验
+https://eriqande.github.io/eca-bioinf-handbook/
+
 
 
  
