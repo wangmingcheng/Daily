@@ -179,6 +179,9 @@ https://github.com/ksahlin/strobealign
 ## 生信经验
 https://eriqande.github.io/eca-bioinf-handbook/
 
+## lncRNA分析工具测评
+https://github.com/cbl-nabi/RNAChallenge
+
 
 
  
