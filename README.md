@@ -173,6 +173,10 @@ http://allendowney.github.io/ThinkBayes2/index.html
 ## 哈佛软件
 https://www.hsph.harvard.edu/alkes-price/software/
 
+## strobealign类似bwa的比对工具
+https://github.com/ksahlin/strobealign
+
+
 
  
  
