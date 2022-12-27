@@ -182,6 +182,10 @@ https://eriqande.github.io/eca-bioinf-handbook/
 ## lncRNA分析工具测评
 https://github.com/cbl-nabi/RNAChallenge
 
+## 人类全基因组Ti/Tv
+https://bioinformatics.stackexchange.com/questions/4362/why-ti-tv-ratio#:~:text=It%20is%202%E2%80%932.10%20for%20human%20across%20the%20whole,Also%2C%20this%20number%20is%20correlated%20with%20GC%20content
+
+
 
 
  
