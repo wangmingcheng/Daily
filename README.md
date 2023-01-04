@@ -188,6 +188,8 @@ https://bioinformatics.stackexchange.com/questions/4362/why-ti-tv-ratio#:~:text=
 ## 画图
 https://github.com/IndrajeetPatil/ggstatsplot/
 
+## 感人励志的真人真事
+http://www.cureffi.org/about/
 
 
 
