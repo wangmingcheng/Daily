@@ -194,12 +194,14 @@ http://www.cureffi.org/about/
 ## 125个前沿科学问题
 https://www.science.org/content/resource/125-questions-exploration-and-discovery
 
-##chip-seq atac-seq hic-seq 比对工具
+## chip-seq atac-seq hic-seq 比对工具
 https://github.com/haowenz/chromap
 
-##Hi-C scaffolding工具
+## Hi-C scaffolding工具
 https://github.com/c-zhou/yahs
 
+## VCF文件分析PCA和遗传距离
+https://github.com/zhengxwen/SNPRelate
 
 
  
