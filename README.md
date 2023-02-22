@@ -203,6 +203,9 @@ https://github.com/c-zhou/yahs
 ## VCF文件分析PCA和遗传距离
 https://github.com/zhengxwen/SNPRelate
 
+## github访问加速
+https://github.com/521xueweihan/GitHub520
+
 
  
  
