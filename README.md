@@ -209,6 +209,9 @@ https://github.com/521xueweihan/GitHub520
 ## strand-flipping
 Flipping strand means changing alleles A -> T C -> G G -> C T -> A s
 
+## 连锁分析计算LOD
+https://www.wikihow.com/Calculate-LOD-Score
+
 
  
  
