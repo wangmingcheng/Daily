@@ -206,6 +206,9 @@ https://github.com/zhengxwen/SNPRelate
 ## github访问加速
 https://github.com/521xueweihan/GitHub520
 
+## strand-flipping
+Flipping strand means changing alleles A -> T C -> G G -> C T -> A s
+
 
  
  
