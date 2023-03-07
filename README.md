@@ -210,7 +210,9 @@ https://github.com/521xueweihan/GitHub520
 Flipping strand means changing alleles A -> T C -> G G -> C T -> A s
 
 ## 连锁分析计算LOD
-https://www.wikihow.com/Calculate-LOD-Score
+https://www.wikihow.com/Calculate-LOD-Score<br>
+https://www.mun.ca/biology/scarr/LOD_analysis.html<br>
+https://med.libretexts.org/Bookshelves/Basic_Science/Cell_Biology_Genetics_and_Biochemistry_for_Pre-Clinical_Students/14%3A_Linkage_studies_pedigrees_and_population_genetics/14.03%3A_Linkage_analysis_and_Genome_Wide_Association_Studies_(GWAS)<br>
 
 
  
