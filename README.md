@@ -27,6 +27,8 @@ freebayes结果过滤标准<br>
 1 拉镜像：<br>
 ```
 singularity build deepvariant.sif docker://google/deepvariant
+
+singularity pull deepvariant.sif docker://google/deepvariant:latest
 ```
 2 运行：<br>
 ```
