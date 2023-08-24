@@ -219,6 +219,10 @@ https://med.libretexts.org/Bookshelves/Basic_Science/Cell_Biology_Genetics_and_B
 ## 1000 Genomics 连锁不平衡
 https://github.com/CBIIT/LDlinkR<br>
 
+## 多序列比对(multiple sequence align)
+kalign: https://github.com/TimoLassmann/kalign<br>
+maftt: https://mafft.cbrc.jp/alignment/software/linux.html<br>
+muscel: https://github.com/rcedgar/muscle<br>
 
  
  
