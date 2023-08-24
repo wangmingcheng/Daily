@@ -231,5 +231,8 @@ https://github.com/vgteam<br>
 ## cDNA/EST protein比对到基因组
 https://github.com/ogotoh/spaln<br>
 
+## 结构变异流程（多软件整合）
+https://github.com/stat-lab/MOPline
+
  
  
