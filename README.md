@@ -228,5 +228,8 @@ muscel: https://github.com/rcedgar/muscle<br>
 https://github.com/pangenome<br>
 https://github.com/vgteam<br>
 
+## cDNA/EST protein比对到基因组
+https://github.com/ogotoh/spaln<br>
+
  
  
