@@ -235,5 +235,11 @@ https://github.com/ogotoh/spaln<br>
 ## 结构变异流程（多软件整合）
 https://github.com/stat-lab/MOPline
 
+## HLA基因命名规则
+https://hla.alleles.org/nomenclature/naming.html
+
+## mac brew 安装更新慢，试试国内镜像源
+https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/
+
  
  
