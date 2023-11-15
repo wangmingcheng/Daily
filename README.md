@@ -242,5 +242,8 @@ https://github.com/stat-lab/MOPline
 ## mac brew 安装更新慢，试试国内镜像源
 https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/
 
+## 深度学习从头预测基因
+https://github.com/weberlab-hhu/helixer
+
  
  
