@@ -248,5 +248,8 @@ https://github.com/weberlab-hhu/helixer
 ## 王一哈希，虽然不是很懂，确实做了很有意义的一件事
 https://github.com/wangyi-fudan/wyhash
 
+## 大牛的博客，简单又朴素
+http://norvig.com/
+
  
  
