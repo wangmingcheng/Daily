@@ -251,5 +251,14 @@ https://github.com/wangyi-fudan/wyhash
 ## 大牛的博客，简单又朴素
 http://norvig.com/
 
+## 让你的python程序显示进度条
+https://github.com/tqdm/tqdm
+
+## 算法（Algorithms, 4th Edition）
+https://algs4.cs.princeton.edu/home/
+
+## CS 自学指南（要是大一的时候看到就好了）
+https://github.com/PKUFlyingPig/cs-self-learning
+
  
  
