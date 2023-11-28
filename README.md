@@ -260,5 +260,13 @@ https://algs4.cs.princeton.edu/home/
 ## CS 自学指南（要是大一的时候看到就好了）
 https://github.com/PKUFlyingPig/cs-self-learning
 
+## 用于测评call变异的准确性，可作为Genome in a Bottle (GIAB)的补充
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03109-2
+
+## 大二或大三对编程语言就有很高的造诣，假以时日必成栋梁，祝好
+https://monthly.wybxc.cc/
+
+
+
  
  
