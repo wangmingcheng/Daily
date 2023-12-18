@@ -279,6 +279,9 @@ https://github.com/browning-lab/hap-ibd?tab=readme-ov-file<br>
 ## PrimateAI-3D 用于遗传变异解读，可以和AlphaMissense比较补充
 https://primad.basespace.illumina.com/
 
+## 标准误和标准差的比较
+http://www.differencebetween.net/science/mathematics-statistics/difference-between-standard-deviation-and-standard-error<br>
+
 
 
  
