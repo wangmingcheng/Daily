@@ -285,6 +285,9 @@ http://www.differencebetween.net/science/mathematics-statistics/difference-betwe
 ## bcftools插件，hg38,hg19,chm13基因组坐标相互转换、gwas meta分析、多基因评分、BLUP预测疾病的风险、PLINK/PLINK2/REGENIE/SAIGE/BOLT/METAL/PGS/SSF信息汇总、 polygenic score loadings tool
 https://github.com/freeseek/score<br>
 
+## 精神类疾病gwas summary结果汇集
+https://pgc.unc.edu/for-researchers/download-results/<br>
+
 
 
  
