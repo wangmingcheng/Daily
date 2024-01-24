@@ -282,6 +282,9 @@ https://primad.basespace.illumina.com/
 ## 标准误和标准差的比较
 http://www.differencebetween.net/science/mathematics-statistics/difference-between-standard-deviation-and-standard-error<br>
 
+## bcftools插件，hg38,hg19,chm13基因组坐标相互转换、gwas meta分析、多基因评分、BLUP预测疾病的风险、PLINK/PLINK2/REGENIE/SAIGE/BOLT/METAL/PGS/SSF信息汇总、 polygenic score loadings tool
+https://github.com/freeseek/score<br>
+
 
 
  
